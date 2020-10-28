@@ -1,4 +1,22 @@
-h1{color: #46484c;}
-p{color: #8b8b8bcc;}
-body{background: rgba(250, 1, 1, 0.322);}
-button{color: aqua;}
+/* el simbolo de asterisco es para seleccionar todos los elementos */
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #46484c;
+}
+
+p{
+    color: #8b8b8bcc;
+}
+
+body{
+    background: rgba(250, 1, 1, 0.322);
+}
+
+button{
+    color: aqua;
+}
